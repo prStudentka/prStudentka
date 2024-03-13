@@ -4,9 +4,11 @@ Hi 👋 My name is Irina
 #### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prStudentka)  Development
 ---------
 
-    I started my path with HTML. Now I'm learning languages and framework Django.
+I started my path with HTML. Now I'm learning languages and framework Django.
    
-    *   🧠  I'm learning python, Django
+*   🧠  I'm learning python, Django
+
+--------
                   
 ### Skills 
 <p align="left">
