@@ -1,4 +1,21 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prStudentka)](https://github.com/prStudentka/github-readme-stats)
+### Hi there 👋, Irina
+#### Development
+![Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I'm learning languages and framework Django.
+
+Skills: PYTHON / DJANGO / HTML / POSTGRESQL
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prStudentka)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prStudentka)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prStudentka&show_icons=true)  
+
+
 
 #### О себе:
    Изучала ActionScript3 по книгам, самостоятельно. Вдруг подвернулось объявление о работе программистом со знанием языка AS3. Я попробовала свои силы и с треском провалила собеседование. Ничего удивительного, ведь пробелов в знаниях было много. Однако, с большим сомнением, надо или нет, но мне дали тестовое задание на пять дней. Здесь стоит отметить, что я была раньше на разных собеседованиях, но никто никогда не проводил технического интервью. А в этой компании потребовали мои теоретические знания. И это меня зацепило. Вот такая я самокритичная. Забросив все дела, я сосредоточилась на ТЗ. День и ночь изучала AS3, ООП и выполняла задание по пунктам. Еле-еле успела уложиться в срок. С большими сомнениями в правильном результате своей работы, я решилась и отправила задание на проверку. И о чудо!!! Я получила оффер. Вот такая я неожиданная.
@@ -23,7 +40,6 @@
    ###### профессия
    "Python - разработчик"
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=prStudentka)
 <!--
 **prStudentka/prStudentka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
