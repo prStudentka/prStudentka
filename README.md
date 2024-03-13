@@ -3,7 +3,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prStudentka)  
 I'm learning languages and framework Django.
 
-[![Task manager](https://github-readme-stats.vercel.app/api/pin/?username=prStudentka&repo=python-project-52)](https://github.com/prStudentka/python-project-52)
+[![Task manager](https://github-readme-stats.vercel.app/api/pin/?username=prStudentka&repo=task_manager)](https://github.com/prStudentka/python-project-52)
 
 Skills: PYTHON / DJANGO / HTML / POSTGRESQL
 
