@@ -7,9 +7,7 @@ I'm learning languages and framework Django.
    PYTHON / DJANGO / HTML / POSTGRESQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prStudentka)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prStudentka&show_icons=true)  
-
 
 
 #### О себе:
