@@ -1,10 +1,35 @@
-### Hi there 👋, Irina
+Hi 👋 My name is Irina
+======================
 
-#### Development [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prStudentka)  
-I'm learning languages and framework Django.
+#### Development [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prStudentka)
+---------
+
+I started my path with HTML. Now I'm learning languages and framework Django.
 
 #### Skills:
    PYTHON / DJANGO / HTML / POSTGRESQL
+
+   
+*   🧠  I'm learning python, Django<a href="https://www.github.com/prStudentka" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/prStudentka?logo=github&style=for-the-badge&color=64748b&labelColor=181824" /></a>### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/prStudentka" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/prStudentka"><img src="https://github-readme-stats.vercel.app/api?username=prStudentka&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=84cc16&icon_color=64748b&bg_color=181824&hide_border=true&show_icons=true" alt="prStudentka's GitHub stats" /></a><a href="https://github.com/prStudentka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prStudentka&langs_count=10&title_color=a855f7&text_color=84cc16&icon_color=64748b&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prStudentka)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prStudentka&show_icons=true)  
