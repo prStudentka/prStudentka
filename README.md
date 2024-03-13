@@ -4,11 +4,9 @@ Hi 👋 My name is Irina
 #### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prStudentka)  Development
 ---------
 
-I started my path with HTML. Now I'm learning languages and framework Django.
+    I started my path with HTML. Now I'm learning languages and framework Django.
    
-*   🧠  I'm learning python, Django
-
-
+    *   🧠  I'm learning python, Django
                   
 ### Skills 
 <p align="left">
@@ -16,20 +14,7 @@ I started my path with HTML. Now I'm learning languages and framework Django.
 
 PYTHON / DJANGO / HTML / POSTGRESQL
                     
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/prStudentka" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/prStudentka"><img src="https://github-readme-stats.vercel.app/api?username=prStudentka&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=84cc16&icon_color=64748b&bg_color=181824&hide_border=true&show_icons=true" alt="prStudentka's GitHub stats" /></a><a href="https://github.com/prStudentka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prStudentka&langs_count=10&title_color=a855f7&text_color=84cc16&icon_color=64748b&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
+### Badges
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prStudentka)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prStudentka&show_icons=true)  
 
