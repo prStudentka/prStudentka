@@ -1,14 +1,9 @@
 ### Hi there 👋, Irina
 #### Development
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prStudentka)  
 I'm learning languages and framework Django.
 
 Skills: PYTHON / DJANGO / HTML / POSTGRESQL
-
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prStudentka)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prStudentka)](https://github.com/anuraghazra/github-readme-stats)
 
