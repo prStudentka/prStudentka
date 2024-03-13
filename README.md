@@ -1,24 +1,23 @@
 Hi 👋 My name is Irina
 ======================
 
-#### Development [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prStudentka)
+#### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prStudentka)  Development
 ---------
 
 I started my path with HTML. Now I'm learning languages and framework Django.
-
-#### Skills:
-   PYTHON / DJANGO / HTML / POSTGRESQL
-
    
-*   🧠  I'm learning python, Django<a href="https://www.github.com/prStudentka" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/prStudentka?logo=github&style=for-the-badge&color=64748b&labelColor=181824" /></a>### Skills 
+*   🧠  I'm learning python, Django
+
+<a href="https://www.github.com/prStudentka" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/prStudentka?logo=github&style=for-the-badge&color=64748b&labelColor=181824" /></a>
+                  
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
                     </p>
                     
                   ### Socials
-                  
-                  
+                                 
                 <p align="left">
                       <a href="https://www.github.com/prStudentka" target="_blank" rel="noreferrer">
                     <picture>
@@ -58,6 +57,8 @@ I started my path with HTML. Now I'm learning languages and framework Django.
    ###### профессия
    "Python - разработчик"
 
+#### Skills:
+   PYTHON / DJANGO / HTML / POSTGRESQL
 <!--
 **prStudentka/prStudentka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
