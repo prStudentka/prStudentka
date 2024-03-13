@@ -1,6 +1,5 @@
 ### Hi there 👋, Irina
 #### Development
-![Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm learning languages and framework Django.
 
