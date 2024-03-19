@@ -26,6 +26,9 @@ PYTHON / DJANGO / HTML / POSTGRESQL
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prStudentka)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prStudentka&show_icons=true)  
 
+### Links of my issue:
+- [test instructions for installing and running the app](https://github.com/Hexlet/hexlet-friends/issues/397)
+- [test instructions for deploying app on Render](https://github.com/Hexlet/hexlet-friends/issues/398)
 
 #### О себе:
    Изучала ActionScript3 по книгам, самостоятельно. Вдруг подвернулось объявление о работе программистом со знанием языка AS3. Я попробовала свои силы и с треском провалила собеседование. Ничего удивительного, ведь пробелов в знаниях было много. Однако, с большим сомнением, надо или нет, но мне дали тестовое задание на пять дней. Здесь стоит отметить, что я была раньше на разных собеседованиях, но никто никогда не проводил технического интервью. А в этой компании потребовали мои теоретические знания. И это меня зацепило. Вот такая я самокритичная. Забросив все дела, я сосредоточилась на ТЗ. День и ночь изучала AS3, ООП и выполняла задание по пунктам. Еле-еле успела уложиться в срок. С большими сомнениями в правильном результате своей работы, я решилась и отправила задание на проверку. И о чудо!!! Я получила оффер. Вот такая я неожиданная.
