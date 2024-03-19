@@ -11,7 +11,7 @@ I started my path with HTML. Now I'm learning languages and framework Django.
 --------
 
 You can contact me at:
- - [my email](irinam-msk@mail.ru)
+ - [my email](mailto:irinam-msk@mail.ru)
  - [my telegram](https://t.me/pr_Studentka)
  - [my resume](https://cv.hexlet.io/ru/resumes/3694)
 
