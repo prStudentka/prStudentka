@@ -30,6 +30,8 @@ PYTHON / DJANGO / HTML / POSTGRESQL
 [![Codewars Badge](https://www.codewars.com/users/pr_studentka/badges/micro)](https://www.codewars.com/users/pr_studentka)
 <a href="https://www.github.com/prStudentka" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/prStudentka?logo=github&style=for-the-badge&color=64748b&labelColor=181824" /></a>
+![](https://komarev.com/ghpvc/?username=prStudentka&abbreviated=true)
+
 <!--
 **prStudentka/prStudentka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
