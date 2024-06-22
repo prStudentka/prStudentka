@@ -1,7 +1,7 @@
 Hi 👋 My name is Irina
 ======================
 
-#### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prStudentka)  Development
+#### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prStudentka)  Python Development
 ---------
 
 I started my path with HTML. Now I'm learning languages and framework Django.
