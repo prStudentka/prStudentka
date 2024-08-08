@@ -6,7 +6,7 @@ Hi 👋 My name is Irina
 
 I started my path with HTML. Now I'm learning languages and framework Django.
    
-*   🧠  I'm learning python, Django, FastAPI
+*   🧠  I'm learning python, Django, drf, celery
 
 --------
 
